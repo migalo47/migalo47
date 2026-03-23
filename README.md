@@ -1,93 +1,105 @@
-<h1 align="center">👋 Hola, soy Miguel Alonso</h1>
-<h3 align="center">💻 Backend Developer | APIs | Microservices | IoT</h3>
+<h1 align="center">🚀 Miguel Alonso García</h1>
+<h3 align="center">Backend Developer · APIs · Microservices · IoT</h3>
 
 <p align="center">
-📍 Madrid, España · 🚀 En busca de mi primera oportunidad profesional
+  <a href="https://www.linkedin.com/in/miguel-alonso-garc%C3%ADa-b35bba36a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Miguel%20Alonso-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://www.migalons.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=firefox">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=TUUSUARIO&style=for-the-badge" />
 </p>
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 About me
 
-Soy desarrollador backend junior con experiencia en sistemas reales basados en microservicios, APIs REST e integración con IoT.
+💻 Backend Developer with hands-on experience building real-world systems using **microservices architecture**, **REST APIs**, and **IoT integrations**.
 
-He trabajado con tecnologías como **Spring Boot, FastAPI y Flutter**, desarrollando soluciones completas desde backend hasta app móvil.
+⚙️ I enjoy designing scalable backend systems and working across the full stack when needed.
 
-💡 Me interesa:
-- Backend escalable
-- Arquitectura de microservicios
-- Sistemas en tiempo real
-- Integración con dispositivos (IoT)
+📍 Based in Madrid
 
 ---
 
-## ⚡ Tecnologías
+## ⚡ Tech Stack
 
-### 🚀 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 📱 Frontend / Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🗄️ Bases de datos
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ⚙️ Herramientas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=migalo47&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=migalo47&theme=tokyonight" />
-</p>
-
----
-
-## 🧩 Proyecto destacado
-
-### 🔐 Sistema de reservas con IoT
-- Backend con **Spring Boot + FastAPI**
-- APIs REST para comunicación con dispositivos
-- App móvil en **Flutter**
-- Control de accesos con cerraduras inteligentes
-- Despliegue con Docker en Linux
-
----
-
-## 📫 Contacto
-
+### 🧩 Backend
 <p>
-<a href="https://www.linkedin.com/in/miguel-alonso-garc%C3%ADa-b35bba36a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Miguel%20Alonso-blue?style=for-the-badge&logo=linkedin" />
-</a>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi" />
 </p>
+
+### 📱 Frontend & Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,angular,react" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### ⚙️ Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=migalo47&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=migalo47&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migalo47&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Featured Project
+
+### 🔐 Smart Booking System (IoT)
+
+✔️ Backend built with **Spring Boot + FastAPI**  
+✔️ REST APIs for real-time device communication  
+✔️ Mobile app developed in **Flutter**  
+✔️ Smart lock integration (IoT)  
+✔️ Dockerized deployment on Linux  
+✔️ Optimized database queries with MySQL  
+
+---
+
+## 🧩 What I bring
+
+- Clean and maintainable backend code
+- API design and integration
+- Experience with real production-like systems
+- Strong problem-solving mindset
+
+---
+
+## 🚀 Currently focused on
+
+- Improving backend architecture patterns
+- Containerization & deployment (Docker)
+- Writing cleaner and more scalable APIs
+
+---
+
+## 📫 Contact
 
 📧 miguelalonsogarc@gmail.com  
-🌐 https://www.migalons.com/
+🌐 https://www.migalons.com/  
 
 ---
 
-## 🧠 Actualmente
-
-🚀 Mejorando en:
-- Arquitectura backend
-- Docker y despliegues
-- Buenas prácticas en APIs
-
----
-
-⭐ Siempre abierto a aprender y a nuevas oportunidades
+<p align="center">
+  ⚡ Building, learning and improving every day
+</p>
