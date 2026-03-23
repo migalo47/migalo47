@@ -8,7 +8,7 @@
   <a href="https://www.migalons.com/">
     <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=firefox">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=TUUSUARIO&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=migalo47&style=for-the-badge" />
 </p>
 
 ---
