@@ -42,7 +42,7 @@
 
 ### ⚙️ Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github, postman" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
 </p>
 
 ---
