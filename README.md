@@ -38,12 +38,11 @@
 ### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 ### ⚙️ Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github, postman" />
 </p>
 
 ---
